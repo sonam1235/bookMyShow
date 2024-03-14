@@ -1,8 +1,11 @@
 package controllers;
 
-public class BookingController {
-    public void bookTicket()
-    {
+import dtos.BookMovieRequestDTO;
+import dtos.BookMovieResponseDTO;
 
+public class BookingController {
+    public BookMovieResponseDTO bookTicket(BookMovieRequestDTO bookMovieRequestDTO)
+    {
+        return null;
     }
 }
