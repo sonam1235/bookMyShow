@@ -1,4 +1,4 @@
-package dtos;
+package com.example.bookMyShow.dtos;
 
 public class BookMovieResponseDTO {
   private ResponseStatus responseStatus;

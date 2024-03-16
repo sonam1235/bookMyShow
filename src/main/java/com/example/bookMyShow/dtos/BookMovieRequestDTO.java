@@ -1,5 +1,5 @@
-package dtos;
-import models.User;
+package com.example.bookMyShow.dtos;
+import com.example.bookMyShow.models.User;
 
 import java.util.List;
 public class BookMovieRequestDTO {

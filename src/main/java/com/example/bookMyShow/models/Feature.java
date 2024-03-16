@@ -1,4 +1,4 @@
-package models;
+package com.example.bookMyShow.models;
 
 public enum Feature {
     TWO_D,

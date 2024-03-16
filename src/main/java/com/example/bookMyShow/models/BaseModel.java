@@ -1,4 +1,4 @@
-package models;
+package com.example.bookMyShow.models;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
