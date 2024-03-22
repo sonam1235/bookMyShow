@@ -9,7 +9,7 @@ import java.util.List;
 @Entity
 public class Movie extends BaseModel{
     private String name;
-    List<String> actors;
+    //List<String> actors;
 
 
 }
