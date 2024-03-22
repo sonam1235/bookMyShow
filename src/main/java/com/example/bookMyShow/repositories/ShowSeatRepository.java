@@ -8,4 +8,8 @@ import java.util.List;
 public interface ShowSeatRepository extends JpaRepository<ShowSeat, Long> {
     @Override
     List<ShowSeat> findAllById(Iterable<Long> longs);
+
+
+
+     ShowSeat save(ShowSeat entity);
 }
